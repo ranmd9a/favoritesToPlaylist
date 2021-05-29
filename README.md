@@ -11,10 +11,10 @@ BeatSaber のお気に入り(ハートマークをつけた曲)を抽出して P
     - favoritesToPlaylist.ps1
 
 3. Author を入力
-4. favoritesToPlaylist.bat と同じフォルダに myfavorites.json が生成されるので BeatSaber インストールディレクトリの Playlists ディレクトリに入れてください。
+4. favoritesToPlaylist.bat と同じディレクトリに myfavorites.json が生成されるので BeatSaber インストールディレクトリの Playlists ディレクトリに入れてください。
 
 ## 注意事項
 - 作者はこのツールを使用したことにより何が起きても責任は持ちません。自己責任でお願いします。
-- タイトルは favorites 固定です。変更する場合はfavoritesToPlaylist.ps1の$titleの値を変更してください。
-- 画像イメージは白一色のみなので beastlist などで適宜修正してください。
+- myfavorites.json のタイトルは favorites 固定です。変更する場合は事前に favoritesToPlaylist.ps1 の $title の値を変更してから実行するか、myfavorites.json を beatlist などで編集してください。
+- myfavorites.json の画像(カバーイメージ)は白一色のみなので beastlist などで適宜修正してください。
 - Windows 10 バージョン 2004、Steam版 BeatSaber 1.15.0 で動作確認
