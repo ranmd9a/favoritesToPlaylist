@@ -5,12 +5,13 @@ BeatSaber のお気に入り(ハートマークをつけた曲)を抽出して P
 
 ## 実行手順
 
-1. 以下の2つのファイルを任意の場所に配置してfavoritesToPlaylist.batをダブルクリック
+1. 右上の 「Code」ボタンから「Download Zip」ボタンを押して favoritesToPlaylist-main.zip をダウンロード
+2. zip から以下の2つのファイルを取り出し任意の場所に配置してfavoritesToPlaylist.batをダブルクリック
     - favoritesToPlaylist.bat
     - favoritesToPlaylist.ps1
 
-2. Author を入力
-3. favoritesToPlaylist.bat と同じフォルダに myfavorites.json が生成されるので BeatSaber インストールディレクトリの Playlists ディレクトリに入れてください。
+3. Author を入力
+4. favoritesToPlaylist.bat と同じフォルダに myfavorites.json が生成されるので BeatSaber インストールディレクトリの Playlists ディレクトリに入れてください。
 
 ## 注意事項
 - 作者はこのツールを使用したことにより何が起きても責任は持ちません。自己責任でお願いします。
