@@ -1,9 +1,14 @@
 # favoritesToPlaylist
 
-## 概要
+## 概要 / About
+
 BeatSaber のお気に入り(ハートマークをつけた曲)を抽出して Playlist ファイルに出力します。
 
-## 実行手順
+---
+
+Outputs BeatSaber favorites (songs with a heart mark) to a playlist file.
+
+## 実行手順 / How to execute
 
 1. 右上の 「Code」ボタンから「Download Zip」ボタンを押して favoritesToPlaylist-main.zip をダウンロード
 2. zip から以下の2つのファイルを取り出し任意の場所に配置してfavoritesToPlaylist.batをダブルクリック
@@ -12,6 +17,15 @@ BeatSaber のお気に入り(ハートマークをつけた曲)を抽出して P
 
 3. Author を入力
 4. favoritesToPlaylist.bat と同じディレクトリに myfavorites.json が生成されるので BeatSaber インストールディレクトリの Playlists ディレクトリに入れてください。
+
+---
+
+1. Click the "Code" button in the upper right corner and click the "Download Zip" button to download favoritesToPlaylist-main.zip.
+2. extract the following two files from the zip and place them in the desired location, then double-click favoritesToPlaylist.bat
+    - favoritesToPlaylist.bat
+    - favoritesToPlaylist.ps1
+3. enter Author
+4. myfavorites.json will be generated in the same directory as favoritesToPlaylist.bat. Put it in the Playlists directory of the BeatSaber installation directory.
 
 ## 注意事項
 - 作者はこのツールを使用したことにより何が起きても責任は持ちません。自己責任でお願いします。
